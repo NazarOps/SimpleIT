@@ -36,7 +36,7 @@
 					<li>Support för mobiler = 20 kr.</li>
 					<li>Felsökning av datorer = 20 kr.</li>
 				</ul>	
-				<form id="form">
+				<form id="form" action="submit.php" method="POST">
 					<div id="formone">
 						<h3>Kontaktuppgifter</h3>
 						<input type="text" class="input" name="firstName" placeholder="Förnamn" required>
