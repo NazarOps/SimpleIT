@@ -6,7 +6,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<?php
-			include("/../My_SQL_Connect/mySQL_Connect.php");
+			include("/mySQL_Connect.php");
 		?>
 	</head>
 	<body>
