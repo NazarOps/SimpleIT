@@ -39,12 +39,12 @@
 				<form id="form">
 					<div id="formone">
 						<h3>Kontaktuppgifter</h3>
-						<p>Förnamn:<input type="text" class="input"></p>
-						<p>Efternamn:<input type="text" class="input"></p>
-						<p>Email:<input type="text" class="input"></p>
-						<p>Telnummer:<input type="text" class="input"></p>
-						<p>Adress:<input type="text" class="input"></p>
-						<p>Postkod:<input type="text" class="input"></p>
+						<input type="text" class="input" name="firstName" placeholder="Förnamn" required>
+						<input type="text" class="input" name="lastName" placeholder="Efternamn" required> 
+						<input type="text" class="input" name="mail" placeholder="Email" required>
+						<input type="text" class="input" name="phoneNumber" placeholder="Telefonnummer" required>
+						<input type="text" class="input" name="adress" placeholder="Adress" required>
+						<input type="text" class="input" name="postalCode" placeholder="Postkod" required>
 					</div>
 					<div id="formtwo">
 						<h3>Felbeskrivning</h3>
@@ -56,7 +56,7 @@
 							<option value="Mobil IOS">Mobil IOS</option>
 						</select><br>
 						<textarea rows="5" col="50">Beskrivning</textarea><br>
-						<input type="submit">
+						<input type="submit" vaule="Skicka">
 					</div>	
 				</form>
 			</div>
