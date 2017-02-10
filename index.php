@@ -29,7 +29,6 @@
 				<div>
 					<p>Curabitur ultrices diam vitae turpis accumsan, ac pellentesque quam malesuada. Sed nisi magna, molestie quis aliquam quis, pulvinar euismod nibh. Aenean dapibus nisl sit amet ante pretium, eget volutpat orci tincidunt. Phasellus pharetra mauris in quam laoreet dignissim. Nullam cursus egestas nulla sit amet interdum. Vivamus non urna eget diam porttitor vestibulum. Donec in justo in dolor tristique feugiat. Donec mattis libero finibus, finibus leo eget, blandit lacus. Suspendisse bibendum sem mi, quis fringilla justo elementum eget. Nullam ipsum felis, viverra sit amet augue sed, luctus venenatis odio. Vestibulum vel sem sit amet elit eleifend bibendum. Nulla elit eros, consequat id metus eu, feugiat posuere tellus.</p>
 				</div>
-				hej
 				<ul id="pricelist">
 					<h3>Prislista</h3>
 					<li>Avancerad rådgivning Dator/Mobil = 20 kr.</li>
@@ -37,15 +36,15 @@
 					<li>Support för mobiler = 20 kr.</li>
 					<li>Felsökning av datorer = 20 kr.</li>
 				</ul>	
-				<form id="form" action="submit.php" method="POST">
+				<form id="form">
 					<div id="formone">
 						<h3>Kontaktuppgifter</h3>
-						<input type="text" class="input" name="firstName" placeholder="Förnamn" required>
-						<input type="text" class="input" name="lastName" placeholder="Efternamn" required> 
-						<input type="text" class="input" name="mail" placeholder="Email" required>
-						<input type="text" class="input" name="phoneNumber" placeholder="Telefonnummer" required>
-						<input type="text" class="input" name="adress" placeholder="Adress" required>
-						<input type="text" class="input" name="postalCode" placeholder="Postkod" required>
+						<p>Förnamn:	 <input type="text" class="input"></p>
+						<p>Efternamn:<input type="text" class="input"></p>
+						<p>Email:    <input type="text" class="input"></p>
+						<p>Telnummer:<input type="text" class="input"></p>
+						<p>Adress:   <input type="text" class="input"></p>
+						<p>Postkod:  <input type="text" class="input"></p>
 					</div>
 					<div id="formtwo">
 						<h3>Felbeskrivning</h3>
@@ -56,8 +55,8 @@
 							<option value="Mobil Android">Mobil Android</option>
 							<option value="Mobil IOS">Mobil IOS</option>
 						</select><br>
-						<textarea rows="5" col="50">Beskrivning</textarea><br>
-						<input type="submit" vaule="Skicka">
+						<textarea rows="13" cols="65">Beskrivning</textarea><br>
+						<input type="submit">
 					</div>	
 				</form>
 			</div>
