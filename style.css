@@ -1,0 +1,86 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color:#99cccc;
+
+}
+
+h1{
+	margin:0px;
+	padding: 10px;
+}
+#wrap{
+	background-color:#99cccc;
+	font-family: "myriad pro";
+	
+	}
+#banner{
+	color: white;
+	font-size: 70px;
+	margin-left: 0px;
+	
+}
+#banner span{
+	color: #333366;
+}
+.container{
+	width: 900px;
+	margin: 0 auto;
+	clear: both;
+}
+.container input {
+        width: 100%;
+        clear: both;
+    }
+	
+
+ul.tabs{
+	margin : auto;
+	padding: 0px;
+	list-style: none;
+}
+ul.tabs li{
+	background: #93a6c4;
+	color: white;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+ul.tabs li.current{
+	background: #333366;;
+	color: white;
+}
+.tab-content{
+	display: none;
+	background: #333366;
+	padding: 15px;
+	color:white;
+	
+}
+.tab-content.current{
+	display: inherit;
+}
+div h1{
+	text-align: center;
+}
+#form p, h3{
+	margin: 3px;
+}
+#desc{
+	width: 400px;
+	height: 200px;
+}
+#footer{
+	height: 100px;
+	background-color:#99cccc;
+	width: 100%;
+}
+#pricelist li{
+	list-style-type:none;
+}
+#formone{
+	display: inline-block;
+}
+#formtwo{
+	display: inline-block;
+}
