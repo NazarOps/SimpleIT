@@ -17,7 +17,8 @@ h1{
 #banner{
 	color: white;
 	font-size: 70px;
-	margin-bottom: 0px;
+	margin-left: 0px;
+	
 }
 #banner span{
 	color: #333366;
@@ -25,15 +26,21 @@ h1{
 .container{
 	width: 900px;
 	margin: 0 auto;
-	
+	clear: both;
 }
+.container input {
+        width: 100%;
+        clear: both;
+    }
+	
+
 ul.tabs{
 	margin : auto;
 	padding: 0px;
 	list-style: none;
 }
 ul.tabs li{
-	background: none;
+	background: #93a6c4;
 	color: white;
 	display: inline-block;
 	padding: 10px 15px;
