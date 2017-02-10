@@ -47,6 +47,7 @@
 						<input type="text" class="input" name="adress" placeholder="Adress" required>
 						<input type="text" class="input" name="postalCode" placeholder="Postkod" required>
 					</div>
+					
 					<div id="formtwo">
 						<h3>Felbeskrivning</h3>
 						<select name="platform">
@@ -57,7 +58,7 @@
 							<option value="Mobil IOS">Mobil IOS</option>
 						</select><br>
 						<textarea rows="13" cols="65">Beskrivning</textarea><br>
-						<input type="submit">
+						<button class="button">Skicka</button>
 					</div>	
 				</form>
 			</div>
