@@ -57,13 +57,10 @@
 							<option value="Mobil Android">Mobil Android</option>
 							<option value="Mobil IOS">Mobil IOS</option>
 						</select><br>
-<<<<<<< HEAD
 						<textarea rows="13" cols="65" name="description">Beskrivning</textarea><br>
 						<input type="submit">
-=======
 						<textarea rows="13" cols="65">Beskrivning</textarea><br>
 						<button class="button">Skicka</button>
->>>>>>> origin/master
 					</div>	
 				</form>
 			</div>

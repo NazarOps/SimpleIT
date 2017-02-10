@@ -107,6 +107,6 @@ div h1{
 	font-family: "couture";
 	cursor: pointer;
 }
-.button: hover {
-	color: black;
+.button:hover {
+	background-color: black;
 }
