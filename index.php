@@ -21,7 +21,7 @@
 			<div id="tab-1" class="tab-content current">
 				<h1>Hem</h1>
 				<div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet orci sagittis, dignissim eros sed, mattis sapien. Vivamus justo justo, mollis et condimentum non, commodo at dui. In hac habitasse platea dictumst. Vivamus placerat iaculis nibh. Mauris mauris massa, mattis eget facilisis a, sollicitudin ut ante. Nunc eros orci, fermentum sed cursus sodales, lacinia id dolor. Vestibulum finibus ipsum id lacus gravida malesuada. Praesent a sapien laoreet, elementum elit fermentum, vestibulum nibh. Pellentesque imperdiet metus mi, in congue elit finibus ultricies. Suspendisse vel lacus nec nulla lobortis bibendum non ut turpis.</p>
+					<p>HST.</p>
 				</div>
 			</div>
 			<div id="tab-2" class="tab-content">
