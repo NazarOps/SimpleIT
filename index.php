@@ -27,7 +27,6 @@
 			<div id="tab-2" class="tab-content">
 				<h1>Kontakta oss</h1>
 				<div>
-					<p>Curabitur ultrices diam vitae turpis accumsan, ac pellentesque quam malesuada. Sed nisi magna, molestie quis aliquam quis, pulvinar euismod nibh. Aenean dapibus nisl sit amet ante pretium, eget volutpat orci tincidunt. Phasellus pharetra mauris in quam laoreet dignissim. Nullam cursus egestas nulla sit amet interdum. Vivamus non urna eget diam porttitor vestibulum. Donec in justo in dolor tristique feugiat. Donec mattis libero finibus, finibus leo eget, blandit lacus. Suspendisse bibendum sem mi, quis fringilla justo elementum eget. Nullam ipsum felis, viverra sit amet augue sed, luctus venenatis odio. Vestibulum vel sem sit amet elit eleifend bibendum. Nulla elit eros, consequat id metus eu, feugiat posuere tellus.</p>
 				</div>
 				<ul id="pricelist">
 					<h3>Prislista</h3>
