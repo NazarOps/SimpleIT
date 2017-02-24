@@ -56,7 +56,7 @@
 							<option value="Mobil Android">Mobil Android</option>
 							<option value="Mobil IOS">Mobil IOS</option>
 						</select><br>
-						<textarea rows="13" cols="65" name="description">Beskrivning</textarea><br>
+						<textarea placeholder="Beskrivning" rows="13" cols="65" name="description"></textarea><br>
 						<button class="button">Skicka</button>
 					</div>	
 				</form>
