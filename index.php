@@ -11,12 +11,12 @@
 	</head>
 	<body>
 		<div id="wrap">
-		<h1 id="banner">SIMPLE<span>IT</span></h1>
 		<div class="container">
 			<ul class="tabs">
 				<li class="tab-link current" data-tab="tab-1">HEM</li>
 				<li class="tab-link" data-tab="tab-2">KONTAKTA OSS</li>
 				<li class="tab-link" data-tab="tab-3">OM OSS</li>
+				<a href="admin.php" id="shit">LOGIN</a>
 			</ul>
 			<div id="tab-1" class="tab-content current">
 				<h1>Hem</h1>
@@ -65,7 +65,6 @@
 				<h1>Om oss</h1>
 				<p>Vi är ett UF-företag som ger support till datorer och mobiler för en billig peng.</p>
 			</div>
-		</div>
 		<div id="footer">
 		</div>
 		</div>

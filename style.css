@@ -38,6 +38,7 @@ ul.tabs{
 	margin : auto;
 	padding: 0px;
 	list-style: none;
+	font-weight: bold;
 }
 ul.tabs li{
 	background: #93a6c4;
@@ -109,4 +110,17 @@ div h1{
 }
 .button:hover {
 	background-color: black;
+}
+#shit{
+	background: #93a6c4;
+	color: white;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	float: right;
+	font-weight: bold;
+	text-decoration: none;
+}
+#shit:active {
+	background-color: #333366;
 }
