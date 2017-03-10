@@ -1,0 +1,5 @@
+CREATE DATABASE SimpleITUF; 
+CREATE TABLE customer(First_name varchar(32), Last_name varchar(32), Mail varchar(32), Phone_number bigint(12), Adress varchar(32), Postal_code bigint(16),
+Platform varchar(32), Description varchar(64));
+
+CREATE TABLE adminlogin(username varchar(32), password varchar(64));
